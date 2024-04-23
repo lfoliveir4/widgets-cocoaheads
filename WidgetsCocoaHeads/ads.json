@@ -1,0 +1,95 @@
+{
+    "ads": [
+        {
+            "adId": "0",
+            "title": "Apartamento na barra",
+            "imageURL": "https://cdn.planoeplano.com.br/2022/08/04/18/03/3959a8a4f8ea052b7d21d377fe2d01bffb66878b-thumbnail.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 520000
+        },
+        {
+            "adId": "1",
+            "title": "Carro BYD",
+            "imageURL": "https://media.gazetadopovo.com.br/2024/01/16162409/shutterstock_2216581469-16x9-960x540.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 200000
+        },
+        {
+            "adId": "2",
+            "title": "Camera Canon",
+            "imageURL": "https://m.media-amazon.com/images/I/71Is-Zv6A0L._AC_UF894,1000_QL80_.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 4000
+        },
+        {
+            "adId": "3",
+            "title": "Farol de milha",
+            "imageURL": "https://connectparts.vteximg.com.br/arquivos/ids/2130489-1000-1000/farol-de-milha-gol-parati-saveiro-g4-fox-03-a-09-polo-hatch-sedan-03-a-06-crossfox-06-a-09-auxiliar-connectparts--1-.jpg?v=637944420554870000",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 50
+        },
+        {
+            "adId": "4",
+            "title": "Maquina de costura",
+            "imageURL": "https://tfcszo.vteximg.com.br/arquivos/ids/185527/maquina-de-costura-decorativa-singer-c7255-mesa-extensora-1.jpg?v=638344585721600000",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 1200
+        },
+        {
+            "adId": "5",
+            "title": "Churrasqueira MOR",
+            "imageURL": "https://lojamor.vteximg.com.br/arquivos/ids/162605-1000-1000/003005-Chur-Montana-1.jpg?v=636389112866700000",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 100
+        },
+        {
+            "adId": "6",
+            "title": "Grelha uruguaia para churrasco",
+            "imageURL": "https://23570.cdn.simplo7.net/static/23570/sku/grelhas-grelha-uruguaia-para-churrasqueira-a-gas-7-espetos-de-embutir--p-1676492556312.png",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 300
+        },
+        {
+            "adId": "7",
+            "title": "Grelha argentina para churrasco",
+            "imageURL": "https://cdn.awsli.com.br/600x450/1925/1925387/produto/1154454490b9485b2dd.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 240
+        },
+        {
+            "adId": "8",
+            "title": "Perfume Armani",
+            "imageURL": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/5/giorgio-armani-armani-eau-pour-homme-masculino-eau-de-toilette-100ml-29277.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 650
+        },
+        {
+            "adId": "9",
+            "title": "iPhone 13 Pro Max",
+            "imageURL": "https://m.media-amazon.com/images/I/41G6Hlu3TBL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 4500
+        },
+        {
+            "adId": "10",
+            "title": "Mesa de jantar 6 cadeiras",
+            "imageURL": "https://abracasa.vteximg.com.br/arquivos/ids/177940/2021_mesa_nola_retangular_cadeira-lala--1-.jpg?v=637769232104470000",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 7500
+        },
+        {
+            "adId": "11",
+            "title": "Fiat Fiorino",
+            "imageURL": "https://fiat.grupoamazonas.com.br/wp-content/uploads/2022/09/Fiorino.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 95243
+        },
+        {
+            "adId": "12",
+            "title": "PlayStation 5",
+            "imageURL": "https://m.media-amazon.com/images/I/51rzWirXO4L.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "price": 3500
+        }
+    ]
+}
